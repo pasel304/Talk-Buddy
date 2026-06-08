@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "QzsTBoo2q6lNCm1ED_mPo"
+uri = "file://artifacts/video-saver/assets/images/icon.png"
+type = "image"
+title = "videosaver app icon"

@@ -12,10 +12,11 @@
       }
     },
     "preview": {
-      "distribution": "internal",
-      "android": {
-        "buildType": "apk"
-      },
+  "distribution": "internal",
+  "env": {
+    "NPM_CONFIG_FROZEN_LOCKFILE": "false"
+  }
+    }
       "ios": {
         "simulator": false
       }
